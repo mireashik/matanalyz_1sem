@@ -42,5 +42,10 @@
 
 ### 10. Непрерывность функции на отрезке. Свойства функций, непрерывных на отрезке.
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/b4fdf7a5-ea78-4b6f-af27-fd55a3508d19)
+
 ### 11. Точки разрыва (не непрерывности)
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/3ca5adaa-9e83-4a77-b07f-6a6af036b61f)
+
+### 12. Производная, ее геометрический и механический смысл.
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/ca61d5f2-e549-4c6e-adfc-cca554d184c0)
+
