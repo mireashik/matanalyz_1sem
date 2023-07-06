@@ -21,3 +21,5 @@
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/57affd0e-47b3-4ce5-b081-e0ad405b04ff)
 
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/bd696b30-b78d-4a09-b37f-485cbc74b2eb)
+
+### Cтепенно-показательная функция
