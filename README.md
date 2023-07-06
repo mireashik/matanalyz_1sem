@@ -28,3 +28,5 @@
 ![5](https://github.com/mireashik/matanalyz_1sem/assets/123753819/1d7e1b2f-928d-4a27-84b7-cec7e7903e37)
 
 ![7](https://github.com/mireashik/matanalyz_1sem/assets/123753819/3dbe8b77-5dc4-40ae-9faa-119f2aaea778)
+
+![23](https://github.com/mireashik/matanalyz_1sem/assets/123753819/631725dd-1ef3-4292-9a12-922413881de7)
