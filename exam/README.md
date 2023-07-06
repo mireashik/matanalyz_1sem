@@ -81,3 +81,8 @@
 
 ### Более сжатая теория
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/cb5cc512-cb8e-463e-97d8-54d1baf60caf)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/72c626fa-2564-4d17-8ba9-12166d285012)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/942368d2-9f2f-481e-835b-e00485687716)
+
