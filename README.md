@@ -49,5 +49,13 @@
 ![27](https://github.com/mireashik/matanalyz_1sem/assets/123753819/5e4ab2cf-b65f-4707-bedd-c6fecfd11942)
 
 ### Правило Лопиталя
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/199fed12-51cb-4ae5-912c-9afe4724fc94)
+
 ![36](https://github.com/mireashik/matanalyz_1sem/assets/123753819/7a11dd28-659e-4559-8fa4-b1f8f0c8a282)
+
+![37](https://github.com/mireashik/matanalyz_1sem/assets/123753819/58a85db9-2a61-4ca8-a0a7-ade02f51d986)
+
+![39](https://github.com/mireashik/matanalyz_1sem/assets/123753819/847002ec-8950-4a1c-b213-5c06e9ba6b96)
+
+![40](https://github.com/mireashik/matanalyz_1sem/assets/123753819/d7e0de52-29e3-4961-b1c2-56dca6c3c486)
 
