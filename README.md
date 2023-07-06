@@ -36,3 +36,16 @@
 ![7](https://github.com/mireashik/matanalyz_1sem/assets/123753819/3dbe8b77-5dc4-40ae-9faa-119f2aaea778)
 
 ![23](https://github.com/mireashik/matanalyz_1sem/assets/123753819/631725dd-1ef3-4292-9a12-922413881de7)
+
+### Параметрическая функция (сохранилась в плохом качестве)
+![1](https://github.com/mireashik/matanalyz_1sem/assets/123753819/f5aa5ecb-5504-4819-ad5e-15fe02e6c992)
+
+![2](https://github.com/mireashik/matanalyz_1sem/assets/123753819/895dd311-0208-45c5-b06b-7a4a79195c39)
+
+![16](https://github.com/mireashik/matanalyz_1sem/assets/123753819/a1c323da-6487-439c-aa6e-0349d9c0e4e8)
+
+![20](https://github.com/mireashik/matanalyz_1sem/assets/123753819/4140d010-226b-4644-ad34-1a4a910c6ff5)
+
+![27](https://github.com/mireashik/matanalyz_1sem/assets/123753819/5e4ab2cf-b65f-4707-bedd-c6fecfd11942)
+
+
