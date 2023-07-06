@@ -54,3 +54,30 @@
 
 ### 17. Дифференциал, его связь с производной, геометрический смысл, инвариантность.
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/f8d24e29-2936-450c-b7a0-e188e5d3d931)
+
+### 18. Теорема Ролля, ее геометрический смысл
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/4be1fb59-0994-4a81-85d8-9318acdd7fec)
+
+### 19. Теорема Лагранжа, ее геометрический смысл. Теорема Коши.
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/539361f7-0496-4044-8060-594f3e9d4b6c)
+
+### 21. Многочлен Тейлора, формула Тейлора.
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/4ecc936b-61b7-43b6-8fcd-7fd660b5d228)
+
+### 22. Остаточный член формулы Тейлора в формах Пеано и Лагранжа.
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/22285f77-298f-4407-822a-b4d727c8bbc9)
+
+### 24. Геометрический смысл второй производной. Точки перегиба.
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/332834c7-ea23-416b-bb9c-9696d4a338d0)
+
+### 25. Асимптоты графика функции. Существование наклонной асимптоты.
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/d0cc5e26-1e0a-404c-96f6-53d1a629e239)
+
+### 27. Дифференцируемость функции нескольких переменных. Дифференциал.
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/9add99ed-fb86-4698-9603-a88cef0c47d8)
+
+### 28. Локальный экстремум функции нескольких переменных. Необходимое условие экстремума.
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/55a752b5-3062-4eb0-baea-a3884a6ac32e)
+
+### Более сжатая теория
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/cb5cc512-cb8e-463e-97d8-54d1baf60caf)
