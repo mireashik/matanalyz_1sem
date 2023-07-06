@@ -14,6 +14,10 @@
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/a755d79e-459c-40b4-9d2f-0e42ab7eed32)
 
 ## Производная (задания типовика)
+https://mathdf.com/der/ru/
+<br>
+https://ru.onlinemschool.com/math/assistance/limit_derivative/derivative/
+
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/9f019556-474a-4c74-b984-b6c20c872848)
 
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/5625d459-b156-4e68-827d-48f8eb97f132)
@@ -38,6 +42,10 @@
 ![23](https://github.com/mireashik/matanalyz_1sem/assets/123753819/631725dd-1ef3-4292-9a12-922413881de7)
 
 ### Параметрическая функция (сохранилась в плохом качестве)
+https://math.semestr.ru/math/parametric-function.php
+<br>
+https://www.kontrolnaya-rabota.ru/s/proizvodnaya-funktsii/parametr/
+
 ![1](https://github.com/mireashik/matanalyz_1sem/assets/123753819/f5aa5ecb-5504-4819-ad5e-15fe02e6c992)
 
 ![2](https://github.com/mireashik/matanalyz_1sem/assets/123753819/895dd311-0208-45c5-b06b-7a4a79195c39)
@@ -64,3 +72,16 @@
 
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/022fc9e2-4d26-41c6-ac5a-34a280cc4104)
 
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/c71f35ee-dadb-427e-89d0-41ea06b75c3d)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/b956c029-6b39-42ce-816e-70db563bec57)
+
+![31](https://github.com/mireashik/matanalyz_1sem/assets/123753819/d8fc9612-e498-4898-8b86-0ce0d5ea6d4e)
+
+![32](https://github.com/mireashik/matanalyz_1sem/assets/123753819/cf0c35c9-2bb1-411b-be31-475730f577a8)
+
+![33](https://github.com/mireashik/matanalyz_1sem/assets/123753819/9964424f-9921-4c1c-bc68-93ea95203e7e)
+
+![34](https://github.com/mireashik/matanalyz_1sem/assets/123753819/6ae2f508-cd8e-4b3b-a469-4a27c0148bec)
+
+![35](https://github.com/mireashik/matanalyz_1sem/assets/123753819/4fd51682-cb1d-4c71-b0bd-a4744d774220)
