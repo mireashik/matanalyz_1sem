@@ -12,3 +12,6 @@
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/93ab5449-355f-4a73-819e-3d80fc6b7039)
 
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/a755d79e-459c-40b4-9d2f-0e42ab7eed32)
+
+## Производная (задания типовика)
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/9f019556-474a-4c74-b984-b6c20c872848)
