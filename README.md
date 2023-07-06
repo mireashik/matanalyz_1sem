@@ -59,3 +59,8 @@
 
 ![40](https://github.com/mireashik/matanalyz_1sem/assets/123753819/d7e0de52-29e3-4961-b1c2-56dca6c3c486)
 
+### Уравнение касательной / нормали к графику
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/82b31495-a801-4526-926b-6c39703016a5)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/022fc9e2-4d26-41c6-ac5a-34a280cc4104)
+
