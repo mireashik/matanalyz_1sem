@@ -23,3 +23,8 @@
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/bd696b30-b78d-4a09-b37f-485cbc74b2eb)
 
 ### Cтепенно-показательная функция
+![4](https://github.com/mireashik/matanalyz_1sem/assets/123753819/fae64c13-bdb7-4bad-8dd8-85375e98c734)
+
+![5](https://github.com/mireashik/matanalyz_1sem/assets/123753819/1d7e1b2f-928d-4a27-84b7-cec7e7903e37)
+
+![7](https://github.com/mireashik/matanalyz_1sem/assets/123753819/3dbe8b77-5dc4-40ae-9faa-119f2aaea778)
