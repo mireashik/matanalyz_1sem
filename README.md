@@ -1,3 +1,21 @@
+## 2. Числовые последовательности и их lim
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/21d471a2-fb68-441e-abc8-7daf712579d9)
+
+## Расстояние между 2 числами
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/99d59268-6061-47c9-843b-5c61e2a53d64)
+
+## ε окрестность
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/5ee7d7a0-81af-4179-9a07-c27a3724cc35)
+
+## Теорема о зажатых последовательностях
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/9c1a2cb9-6924-40b6-99ea-e9efe8bbed4a)
+
+## Ограниченные последовательности
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/3e1cf4b3-b9e5-4ee3-bde2-33d6066544b3)
+
+## Число е (предел последовательности)
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/a028c560-a6f1-48d7-b40e-174501fcf164)
+
 ## Пределы (+ разбор 1 КР)
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/c207d3e8-5e19-4373-8f4b-461256613d19)
 
