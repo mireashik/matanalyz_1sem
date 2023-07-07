@@ -1,3 +1,9 @@
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/e0e6b132-eb92-4b6c-8091-1e0720636203)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/2b34062d-581a-4314-bc10-bafd639ad887)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/158c4d8c-7986-47e7-9570-8c6a8267f72c)
+
 ## 2. Числовые последовательности и их lim
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/21d471a2-fb68-441e-abc8-7daf712579d9)
 
