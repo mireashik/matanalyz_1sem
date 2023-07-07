@@ -16,7 +16,32 @@
 ## Число е (предел последовательности)
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/a028c560-a6f1-48d7-b40e-174501fcf164)
 
-## Пределы (+ разбор 1 КР)
+# Пределы
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/e95025eb-59ff-4097-aa45-c24b2a4c8e89)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/42fe9fd0-f6f1-49db-8ff7-4e4e51687d35)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/c955a578-e948-4ce8-b107-986df1130798)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/7f32a023-d3c3-4aed-bee8-60002415c0c7)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/251c7de9-c2ae-4d82-a738-3f1149f3be26)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/89a34d3e-38f0-48f9-9c38-a8664a9e88b5)
+
+## Таблица эквивалентности
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/004044c3-a11c-437b-8200-230453620457)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/a8da31fc-9c02-4893-8215-5a8e285cb153)
+
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/00a6d659-8d18-4140-850e-5d9b4e55b7dd)
+
+## Точки разрыва
+![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/610f301f-de65-469d-a7cb-a2604a6c3835)
+
+
+## Разбор 1 КР
+
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/c207d3e8-5e19-4373-8f4b-461256613d19)
 
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/ee2afe55-c843-486b-9998-e8c87458b0fc)
@@ -31,7 +56,7 @@
 
 ![image](https://github.com/mireashik/matanalyz_1sem/assets/123753819/a755d79e-459c-40b4-9d2f-0e42ab7eed32)
 
-## Производная (задания типовика)
+# Производная (задания типовика)
 https://mathdf.com/der/ru/
 <br>
 https://ru.onlinemschool.com/math/assistance/limit_derivative/derivative/
